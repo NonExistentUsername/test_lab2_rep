@@ -22,7 +22,7 @@
 #### Виконання:
 Пройти гру Git Learn та зробити скріншоти пройдених рівнів.
 
-![Screen1](https://drive.google.com/file/d/1kI1CIYjmqmZBAJDuQPGLDIEEa-wryCfJ/view?usp=sharing)
+![Screen1](https://lh3.googleusercontent.com/drive-viewer/AJc5JmRpvPJJI80XEvWSUjKf8WqICekIBb0Cu2rAexhORTx9ZyTP2aZnhfR0FOcjtOhLUYrPCcdhbwU=w3024-h1668)
 
 Зробити git init папки із файлом  hello.txt та bash скриптом.
 
