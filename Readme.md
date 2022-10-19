@@ -20,13 +20,14 @@
 
 
 #### Виконання:
-Пройти гру Git Learn та зробити скріншоти пройдених рівнів.
+- Пройти гру Git Learn та зробити скріншоти пройдених рівнів.
+  
+  ![Screen1](https://lh3.googleusercontent.com/drive-viewer/AJc5JmRpvPJJI80XEvWSUjKf8WqICekIBb0Cu2rAexhORTx9ZyTP2aZnhfR0FOcjtOhLUYrPCcdhbwU=w3024-h1668)
+  ![Screen2](https://lh3.googleusercontent.com/drive-viewer/AJc5JmTHkV6SGhKX_J51FB0Ic-rb3k8rh181QJ5zQYa7q5cPky-uuJ2a_z_jmUgzPJFAVGa8SxHh8dw=w3024-h1668)
 
-![Screen1](https://lh3.googleusercontent.com/drive-viewer/AJc5JmRpvPJJI80XEvWSUjKf8WqICekIBb0Cu2rAexhORTx9ZyTP2aZnhfR0FOcjtOhLUYrPCcdhbwU=w3024-h1668)
+- Зробити git init папки із файлом  hello.txt та bash скриптом.
 
-Зробити git init папки із файлом  hello.txt та bash скриптом.
-
-Зробити git commit.
+- Зробити git commit.
 
 Зробити git push у віддалений репозиторій у вітку lab_works_one_two.
 
